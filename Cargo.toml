@@ -1,0 +1,9 @@
+[package]
+name        = "combomatic"
+description = "🩺 Enumerate safe combinations"
+version     = "0.0.0"
+authors     = ["Casey Rodarmor <casey@rodarmor.com>"]
+edition     = "2018"
+
+[dependencies]
+structopt = "0.2.15"
